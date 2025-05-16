@@ -1,0 +1,27 @@
+# Arquivos de log do Robot Framework
+output.xml
+report.html
+log.html
+
+# Capturas de tela temporárias
+*.png
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+env/
+venv/
+.venv/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Pasta de build temporária (caso use futuramente)
+build/
+dist/
+
+# Arquivos do VSCode
+.vscode/
