@@ -52,7 +52,7 @@ Evidências Visuais
 
 Autor(a)
 Mônica Ferreira
-🔗 [linkedin.com/in/monicaferreira](https://www.linkedin.com/in/monicaferreira31/)
+🔗 https://www.linkedin.com/in/monicaferreira31/
 
 Licença
 Este projeto está licenciado sob os termos da MIT License.
